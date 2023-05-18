@@ -77,3 +77,16 @@ Nodemon - To monitor changes to the program code that is being developed
 Database
 
 MongoDB - It provides a free cloud service to store MongoDB collections.
+
+SCREENSHOTS:
+![Screenshot (21)](https://github.com/yashpal-97/Daily-Expense-Tracker/assets/109839369/2383d875-8283-4986-b0ec-f198b0587d51)
+![Screenshot (22)](https://github.com/yashpal-97/Daily-Expense-Tracker/assets/109839369/494ec46c-96f0-4bbb-ada9-c5dc7a27be7e)
+![Screenshot (23)](https://github.com/yashpal-97/Daily-Expense-Tracker/assets/109839369/c4e604ab-e275-4f57-b13d-848d9cf3bdca)
+![Screenshot (24)](https://github.com/yashpal-97/Daily-Expense-Tracker/assets/109839369/a769053b-26eb-420b-a195-7affcaf5b585)
+
+
+
+
+
+
+
